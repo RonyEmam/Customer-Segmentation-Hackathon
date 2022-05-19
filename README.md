@@ -1,1 +1,1 @@
-# Customer-Segmentation-Hackathon-
+# Customer-Segmentation [Hackathon]
